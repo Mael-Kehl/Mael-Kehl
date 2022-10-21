@@ -4,4 +4,5 @@ I'm currently doing a work-study engineer program at [Polytech Nancy](https://po
 
 You can check my [portfolio](https://mael-kehl.github.io/portfolio) done with the three.js library.
 
-[![Maël's github stats](https://github-readme-stats.vercel.app/api?username=Mael-Kehl)](https://github.com/yushi1007)
+[![Maël's github stats](https://github-readme-stats.vercel.app/api?username=Mael-Kehl)](https://github.com/Mael-Kehl)
+[![Most used langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mael-Kehl&layout=compact)](https://github.com/Mael-Kehl)
